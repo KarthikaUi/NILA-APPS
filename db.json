@@ -1,0 +1,34 @@
+{
+    "chartdata":[
+    {
+    "year": 2019,
+    "amount": 5000,
+    "color": "rgba(255, 99, 132, 0.2)",
+    "borderColor": "rgb(255,99,132)"
+    },
+    {
+    "year": 2020,
+    "amount": 2000,
+    "color": "rgba(255, 99, 132, 0.2)",
+    "borderColor": "rgb(255,99,132)"
+    },
+    {
+    "year": 2021,
+    "amount": 4000,
+    "color": "rgba(255, 99, 132, 0.2)",
+    "borderColor": "rgb(255,99,132)"
+    },
+    {
+    "year": 2018,
+    "amount": 5000,
+    "color": "rgba(255, 99, 132, 0.2)",
+    "borderColor": "rgb(255,99,132)"
+    },
+    {
+    "year": 2025,
+    "amount": 1000,
+    "color": "rgba(255, 99, 132, 0.2)",
+    "borderColor": "rgb(255,99,132)"
+    }
+    ]
+    }

@@ -1,0 +1,11 @@
+.chart-container {
+    max-height: 400px; /* Adjust this height as needed */
+    overflow-y: auto;   /* Enable vertical scrolling */
+    border: 1px solid #ccc; /* Optional: Add a border for visual separation */
+    padding: 20px; /* Optional: Add some padding */
+  }
+
+  canvas {
+    width: 100% !important; 
+    height: auto !important; 
+  }

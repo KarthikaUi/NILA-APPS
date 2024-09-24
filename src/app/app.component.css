@@ -1,0 +1,32 @@
+.main-container {
+    position: fixed;
+    top: 70px;
+    width: calc(100% - 20px);
+    left: 10px;
+    min-height: calc(100vh - 60px);
+    background: #ece8e8;
+    display: flex;
+}
+
+.side-nav {
+    position: fixed;
+    width: 350px;
+    min-width: 230px;
+    min-height: calc(100vh - 70px);
+    background-color: cadetblue;
+    color: black;
+    box-shadow: 5px 5px 5px #939393;
+}
+
+@media only screen and (max-width: 1300px) {
+    .side-nav {
+        width: 100px;
+        min-width: 100px;
+    }
+}
+
+.main {
+    padding: 10px; 
+    margin-left: 260px; 
+    flex-grow: 1;
+}
